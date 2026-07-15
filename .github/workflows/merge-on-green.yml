@@ -1,1 +1,221 @@
-IyBtZXJnZS1vbi1ncmVlbiDigJQgdGhpcyByZXBvJ3MgbGFuZGluZyBwYXRoIGZvciBhZ2VudCBQUnMuCiMKIyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PSBQUk9WRU5BTkNFID09PT09PT09PT09PT09PT09PT09PT09PT09PT09CiMgV2h5IGFkZGVkIDogRmxlZXQtd2lkZSBtZXJnZS1vbi1ncmVlbiBhdWRpdCAoMjAyNi0wNy0xNSkgZm91bmQgdGhpcyByZXBvCiMgICAgICAgICAgICAgaGFkIE5PIG1lcmdlIG1lY2hhbmlzbSBhdCBhbGwg4oCUIG5vIC5naXRodWIvd29ya2Zsb3dzCiMgICAgICAgICAgICAgZGlyZWN0b3J5LCBubyBuYXRpdmUtYXJtIHdvcmtmbG93LCBubyBSRVNUIHN3ZWVwLiBUaGUgdHdvCiMgICAgICAgICAgICAgUFJzIG1lcmdlZCBoZXJlIHRvIGRhdGUgKCMxLCAjMikgd2VyZSBib3RoIG1lcmdlZCBieSBoYW5kCiMgICAgICAgICAgICAgYnkgdGhlIGh1bWFuIG93bmVyIChjb25maXJtZWQgdmlhIHB1bGxfcmVxdWVzdF9yZWFkOiBubwojICAgICAgICAgICAgIGNoZWNrIHJ1bnMgZXhpc3RlZCBvbiBlaXRoZXIgaGVhZCBTSEEpLiBUaGlzIGluc3RhbGxzIHJlYWwKIyAgICAgICAgICAgICBhdXRvbWF0aW9uIHNvIGZ1dHVyZSBQUnMgbGFuZCB3aXRob3V0IGEgbWFudWFsIGNsaWNrLgojIE1vZGVsZWQgb246IG1lbm5vNDIwL2ZsZWV0LW1hbmFnZXIgLmdpdGh1Yi93b3JrZmxvd3MvbWVyZ2Utb24tZ3JlZW4ueW1sCiMgICAgICAgICAgICAgQCBlYjdmZWMwNmM4ODM2NmNhMDk4NDE4MTE4NGYzNGYzOTBiYWU0NTYyIOKAlCB0aGUgUkVTVAojICAgICAgICAgICAgIHZlcmlmeS10aGVuLXNxdWFzaC1tZXJnZSBzd2VlcCBzaGFwZSwgY2hvc2VuIG92ZXIgdGhlCiMgICAgICAgICAgICAgc2ltcGxlciBuYXRpdmUtYXJtIGVuYWJsZXIgYmVjYXVzZSB0aGVyZSBpcyBubyB0b29sCiMgICAgICAgICAgICAgYXZhaWxhYmxlIGluIHRoaXMgdGFzayB0byBjb25maXJtIG9yIHRvZ2dsZSB0aGlzIHJlcG8ncwojICAgICAgICAgICAgIFNldHRpbmdzID4gIkFsbG93IGF1dG8tbWVyZ2UiIHN3aXRjaCwgc28gdGhlIFJFU1QgcGF0aCBpcwojICAgICAgICAgICAgIHRoZSBvbmUgZ3VhcmFudGVlZCB0byB3b3JrIHJlZ2FyZGxlc3Mgb2YgdGhhdCBzZXR0aW5nLgojIEFkYXB0ZWQgZm9yIHRoaXMgcmVwbzoKIyAgIC0gcmVwb3NpdG9yeSBndWFyZCAtPiBtZW5ubzQyMC9zdXBlcmJvdC1wbHVnaW4taGVsbG8KIyAgIC0gaGVhZC1yZWYgcHJlZml4ICAtPiBjbGF1ZGUvKiAodGhpcyByZXBvJ3Mgb25seSB0d28gUFJzIHRvIGRhdGUgYm90aAojICAgICB1c2VkIGNsYXVkZS8qIGhlYWQgcmVmczogY2xhdWRlL29yZGVyLTAyMC1raXQtcGluLAojICAgICBjbGF1ZGUvZmxlZXQtYXVkaXQtMjAyNi0wNy0xMyDigJQgc2FtZSBjb252ZW50aW9uIGFzIHRoZSByZXN0IG9mIHRoZQojICAgICBmbGVldCkKIyAgIC0gYmFzZSBicmFuY2ggICAgICAtPiBtYWluICh0aGlzIHJlcG8ncyBkZWZhdWx0IGJyYW5jaCkKIyAgIC0gRFJPUFBFRCB0aGUgaW4tcHJvZ3Jlc3Mgc2Vzc2lvbi1jYXJkIHNraXAgYmxvY2sgZW50aXJlbHk6IHRoaXMKIyAgICAgcmVwbyBoYXMgbm8gLnNlc3Npb25zLyoubWQgYm9ybi1yZWQtY2FyZCBjb252ZW50aW9uIChubwojICAgICAuc2Vzc2lvbnMvIGRpcmVjdG9yeSBleGlzdHMgaGVyZSBhdCBhbGwpLCBzbyB0aGF0IGJsb2NrIGRvZXMgbm90CiMgICAgIGFwcGx5IGFuZCB3YXMgcmVtb3ZlZCByYXRoZXIgdGhhbiBsZWZ0IGluIGFzIGRlYWQvbWlzbGVhZGluZyBjb2RlLgojICAgLSBEUk9QUEVEIHRoZSB3b3JrZmxvd19ydW4gdHJpZ2dlciBvbiBuYW1lZCBDSSB3b3JrZmxvd3M6IHRoaXMgcmVwbwojICAgICBjdXJyZW50bHkgaGFzIE5PIENJIHdvcmtmbG93cyBvZiBhbnkga2luZCAoY29uZmlybWVkOiBubwojICAgICAuZ2l0aHViL3dvcmtmbG93cyBkaXJlY3RvcnkgZXhpc3RlZCBiZWZvcmUgdGhpcyBQUiksIHNvIHRoZXJlIGlzCiMgICAgIG5vIGtub3duIHdvcmtmbG93IG5hbWUgdG8gcmVhY3QgdG8geWV0LiBjaGVja19zdWl0ZS9jb21wbGV0ZWQgcGx1cwojICAgICB0aGUgY3JvbiBiYWNrc3RvcCBzdGlsbCBjb3ZlciB0aGUgc3dlZXAgZ2VuZXJpY2FsbHk7IGFkZCBhCiMgICAgIHdvcmtmbG93X3J1biB0cmlnZ2VyIGJhY2sgb25jZSByZWFsIENJIHdvcmtmbG93IG5hbWVzIGV4aXN0IGhlcmUuCiMKIyBLTk9XTiBMSU1JVEFUSU9OIChmbGFnZ2VkIHBsYWlubHksIG5vdCBzaWxlbnRseSBzaGlwcGVkKTogdGhpcyByZXBvIGhhcwojIG5vIENJIGNvbmZpZ3VyZWQgeWV0IChwcmlvciBzZWxmLWF1ZGl0LCBQUiAjMSBib2R5OiAidGVzdHMgbmVlZCB0aGUKIyBob3N0IGBzYmAgcGFja2FnZSB0byBpbXBvcnQsIHNvIG5vdGhpbmcgaGVyZSBjYW4gZ2F0ZSBzdGFuZGFsb25lIikuCiMgVGhlIGNoZWNrLXZlcmlmaWNhdGlvbiBzdGVwIGJlbG93IGlzIGNvcGllZCBmYWl0aGZ1bGx5IGZyb20KIyBmbGVldC1tYW5hZ2VyOiB6ZXJvIGNoZWNrIHJ1bnMgb24gYSBQUidzIGhlYWQgU0hBIGNvdW50cyBhcyAibm90aGluZwojIHZlcmlmaWVkIHlldCIgKE5PVCByZWFkeSB0byBtZXJnZSksIG5vdCBhcyAibm90aGluZyB0byBibG9jayBvbiwgc2hpcAojIGl0LiIgVGhhdCBtZWFucywgYXMgc2hpcHBlZCwgdGhpcyB3b3JrZmxvdyB3aWxsIHNraXAgZXZlcnkgUFIgYW5kCiMgbWVyZ2Ugbm90aGluZyB1bnRpbCBzb21lIENJIHdvcmtmbG93IGV4aXN0cyBoZXJlIHRoYXQgcHJvZHVjZXMgYXQKIyBsZWFzdCBvbmUgY2hlY2sgcnVuIG9uIFBSIGhlYWRzLiBUaGlzIGlzIGEgZGVsaWJlcmF0ZSwgY29uc2VydmF0aXZlCiMgY2hvaWNlIChhIGdyZWVuIHNpZ25hbCBtdXN0IGJlIGFuIGFjdHVhbGx5LXZlcmlmaWVkIHNpZ25hbCwgbmV2ZXIKIyBhc3N1bWVkKSDigJQgc2VlIHRoaXMgUFIncyBkZXNjcmlwdGlvbiBmb3IgdGhlIGhvbmVzdCB0cmFkZS1vZmYgYW5kIGhvdwojIHRvIGZsaXAgaXQgaWYgIm1lcmdlIHVuY29uZGl0aW9uYWxseSwgdGhlcmUncyBub3RoaW5nIHRvIGdhdGUgb24geWV0IgojIGlzIHdoYXQncyBhY3R1YWxseSB3YW50ZWQgZm9yIGEgdGVtcGxhdGUgcmVwbyB3aXRoIG5vIHRlc3RzIHdpcmVkLgojCiMgUmVsaWFiaWxpdHk6IHVudmVyaWZpZWQg4oCUIGNvbmZpcm0gaXRzIG1lcmdlcyBhZ2FpbnN0IGdyb3VuZCB0cnV0aCBhCiMgZmV3IHRpbWVzIGFjcm9zcyBzZXNzaW9ucyBiZWZvcmUgdHJ1c3RpbmcgaXQuCiMgS2lsbC1zd2l0Y2g6IGRlbGV0ZSB0aGlzIGlmIGl0IHByb3ZlcyB1bnJlbGlhYmxlIG92ZXIgbXVsdGlwbGUKIyBzZXNzaW9ucy4KIyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQojCiMgV0hBVCBJVCBET0VTOiBvbiBjaGVjay1zdWl0ZSBjb21wbGV0aW9uIC8gUFIgcmVhZGluZXNzIG9yIGxhYmVsCiMgY2hhbmdlcyAvIHRoZSBoYWxmLWhvdXJseSBjcm9uIC8gbWFudWFsIGRpc3BhdGNoLCBzd2VlcCBBTEwgb3BlbiwKIyBSRUFEWSAobm9uLWRyYWZ0KSwgc2FtZS1yZXBvIFBScyB3aXRoIGhlYWQgYGNsYXVkZS8qYCBhbmQgYmFzZSBgbWFpbmA7CiMgZm9yIGVhY2gsIHZlcmlmeSBFVkVSWSBjaGVjayBydW4gb24gdGhlIGhlYWQgU0hBIGlzIGNvbXBsZXRlZCtzdWNjZXNzCiMgKHBlbmRpbmcgb3IgbWlzc2luZyA9IE5PVCByZWFkeSDigJQgc2tpcCB0aGlzIHJvdW5kLCBhIGxhdGVyIGV2ZW50IG9yCiMgdGhlIG5leHQgY3JvbiByZS1zd2VlcHMpOyB0aGVuIHNxdWFzaC1tZXJnZSBkaXJlY3RseSB3aXRoCiMgR0lUSFVCX1RPS0VOLgojCiMgQ0FSVkUtT1VUUyAoc2tpcHBlZCwgbmV2ZXIgbWVyZ2VkL2Nsb3NlZC9yZWJhc2VkKToKIyAgICogbGFiZWxzIGBkby1ub3QtYXV0b21lcmdlYCAvIGBvd25lci1oZWxkYCAoPSByYXRpZmljYXRpb24gcGFyayksCiMgICAgIHJlLXJlYWQgRlJFU0ggZnJvbSB0aGUgQVBJIHBlciBQUiDigJQgZXZlbnQgcGF5bG9hZHMgY2FuIHNuYXBzaG90CiMgICAgIGxhYmVscyBhcyBvZiBQUiBvcGVuIHRpbWU7CiMgICAqIGFueSBQUiB3aG9zZSBkaWZmIHRvdWNoZXMgLmdpdGh1Yi93b3JrZmxvd3MvKiogLSB3b3JrZmxvdyBQUnMgc3RheQojICAgICBPV05FUi1NRVJHRS1PTkxZLiBUaGlzIHZlcnkgUFIgcGFya3MgaXRzZWxmIHVuZGVyIGl0cyBvd24gcmFpbCwgYnkKIyAgICAgZGVzaWduLgojCiMgUkFDRSBHVUFSRDogdGhlIG1lcmdlIGNhbGwgcGlucyBgLS1tYXRjaC1oZWFkLWNvbW1pdCA8dmVyaWZpZWQgU0hBPmAsCiMgc28gYSBwdXNoIHJhY2luZyB0aGUgc3dlZXAgY2FuIG5ldmVyIGxhbmQgYW4gdW52ZXJpZmllZCBoZWFkLgojCiMgU0VMRi1FWEVNUFRJT04gKGRvY3VtZW50ZWQsIG5hcnJvdyk6IG9uIHB1bGxfcmVxdWVzdCB0cmlnZ2VycyB0aGlzCiMgd29ya2Zsb3cncyBvd24gam9iIGlzIGl0c2VsZiBhIGNoZWNrIHJ1biBvbiB0aGUgaGVhZCBTSEEgYW5kIGlzCiMgYGluX3Byb2dyZXNzYCB3aGlsZSBpdCBldmFsdWF0ZXMg4oCUIHJlcXVpcmluZyBpdCB0byBiZSBjb21wbGV0ZWQgd291bGQKIyBkZWFkbG9jayBldmVyeSBldmVudC10cmlnZ2VyZWQgc3dlZXAuIENoZWNrIHJ1bnMgbmFtZWQgZXhhY3RseQojIGBtZXJnZS1vbi1ncmVlbmAgYXJlIHRoZXJlZm9yZSBleGVtcHQgZnJvbSB0aGUgYWxsLWdyZWVuIHJlcXVpcmVtZW50CiMgKGFuZCBvbmx5IHRob3NlOyBub3RoaW5nIGVsc2UgaXMgZXZlciBleGVtcHQpLgojCiMgS05PV04gTElNSVQgKGFjY2VwdGVkKTogbWVyZ2VzIHBlcmZvcm1lZCB3aXRoIEdJVEhVQl9UT0tFTiBkbyBub3QKIyB0cmlnZ2VyIG90aGVyIGBwdXNoYC1ldmVudCB3b3JrZmxvd3Mgb24gbWFpbiAoR2l0SHViJ3MgcmVjdXJzaW9uCiMgZ3VhcmQpLgpuYW1lOiBtZXJnZS1vbi1ncmVlbgpvbjoKICBjaGVja19zdWl0ZToKICAgIHR5cGVzOiBbY29tcGxldGVkXQogIHB1bGxfcmVxdWVzdDoKICAgIHR5cGVzOiBbcmVhZHlfZm9yX3Jldmlldywgc3luY2hyb25pemUsIGxhYmVsZWQsIHVubGFiZWxlZF0KICBzY2hlZHVsZToKICAgICMgUmVsaWFibGUgYmFja3N0b3AgbGFuZTogY2hlY2tfc3VpdGUgb25seSBmaXJlcyBmcm9tIHRoaXMgZmlsZSdzCiAgICAjIGNvcHkgb24gbWFpbiwgYW5kIEdJVEhVQl9UT0tFTi1jcmVhdGVkIGV2ZW50cyBkb24ndCByZXRyaWdnZXIKICAgICMgd29ya2Zsb3dzIOKAlCB0aGUgY3JvbiBjYXRjaGVzIGFueXRoaW5nIHRoZSBldmVudCBsYW5lcyBtaXNzLgogICAgLSBjcm9uOiAiNywzNyAqICogKiAqIgogIHdvcmtmbG93X2Rpc3BhdGNoOgpwZXJtaXNzaW9uczoKICBjb250ZW50czogd3JpdGUKICBwdWxsLXJlcXVlc3RzOiB3cml0ZQogIGNoZWNrczogcmVhZApjb25jdXJyZW5jeToKICAjIE9uZSBzd2VlcCBhdCBhIHRpbWUsIHJlcG8td2lkZTsgcXVldWVkIChuZXZlciBjYW5jZWxsZWQpIHNvIGEgbWVyZ2UKICAjIGluIGZsaWdodCBpcyBuZXZlciBraWxsZWQgaGFsZndheSBhbmQgYSBjb21wbGV0aW9uIGV2ZW50IGFycml2aW5nCiAgIyBtaWQtc3dlZXAgc3RpbGwgZ2V0cyBpdHMgb3duIGZvbGxvdy11cCBwYXNzLgogIGdyb3VwOiBtZXJnZS1vbi1ncmVlbgogIGNhbmNlbC1pbi1wcm9ncmVzczogZmFsc2UKam9iczoKICBtZXJnZS1vbi1ncmVlbjoKICAgIGlmOiBnaXRodWIucmVwb3NpdG9yeSA9PSAnbWVubm80MjAvc3VwZXJib3QtcGx1Z2luLWhlbGxvJwogICAgcnVucy1vbjogdWJ1bnR1LWxhdGVzdAogICAgc3RlcHM6CiAgICAgIC0gbmFtZTogU3dlZXAgb3BlbiBjbGF1ZGUvKiBQUnMgYW5kIHNxdWFzaC1tZXJnZSB0aGUgZnVsbHktZ3JlZW4gb25lcwogICAgICAgIGVudjoKICAgICAgICAgIEdIX1RPS0VOOiAke3sgc2VjcmV0cy5HSVRIVUJfVE9LRU4gfX0KICAgICAgICBydW46IHwKICAgICAgICAgIHB5dGhvbjMgLSA8PCdQWScKICAgICAgICAgIGltcG9ydCBqc29uLCBvcywgc3VicHJvY2Vzcywgc3lzCgogICAgICAgICAgcmVwbyA9IG9zLmVudmlyb25bIkdJVEhVQl9SRVBPU0lUT1JZIl0KICAgICAgICAgIFBBUktfTEFCRUxTID0geyJkby1ub3QtYXV0b21lcmdlIiwgIm93bmVyLWhlbGQifQogICAgICAgICAgU0VMRl9DSEVDS19OQU1FUyA9IHsibWVyZ2Utb24tZ3JlZW4ifSAgIyBzZWUgU0VMRi1FWEVNUFRJT04gaGVhZGVyIG5vdGUKCiAgICAgICAgICBkZWYgZ2goKmFyZ3MsIG9rX2ZhaWw9RmFsc2UpOgogICAgICAgICAgICAgICMgYXJndi1vbmx5IChuZXZlciBhIHNoZWxsIHN0cmluZyk6IFBSLWNvbnRyb2xsZWQgdmFsdWVzCiAgICAgICAgICAgICAgIyAoYnJhbmNoIG5hbWVzLCB0aXRsZXMpIHJpZGUgYXMgYXJndW1lbnRzIGJ1dCBjYW4gbmV2ZXIKICAgICAgICAgICAgICAjIHNwbGljZSBpbnRvIGEgY29tbWFuZC4KICAgICAgICAgICAgICByID0gc3VicHJvY2Vzcy5ydW4oWyJnaCIsICphcmdzXSwgY2FwdHVyZV9vdXRwdXQ9VHJ1ZSwgdGV4dD1UcnVlKQogICAgICAgICAgICAgIGlmIHIucmV0dXJuY29kZSAhPSAwIGFuZCBub3Qgb2tfZmFpbDoKICAgICAgICAgICAgICAgICAgcHJpbnQoci5zdGRlcnIsIGZpbGU9c3lzLnN0ZGVycikKICAgICAgICAgICAgICAgICAgc3lzLmV4aXQoMSkgICMgZmFpbCBMT1VEOiBhbiB1bnJlYWRhYmxlIEFQSSBtdXN0IG5vdCBtZXJnZQogICAgICAgICAgICAgIHJldHVybiByLnJldHVybmNvZGUsIHIuc3Rkb3V0LCByLnN0ZGVycgoKICAgICAgICAgIGRlZiBwYXJzZV9saW5lcyhvdXQpOgogICAgICAgICAgICAgIHZhbHMgPSBbXQogICAgICAgICAgICAgIGZvciBsaW5lIGluIG91dC5zcGxpdGxpbmVzKCk6CiAgICAgICAgICAgICAgICAgIGlmIG5vdCBsaW5lOgogICAgICAgICAgICAgICAgICAgICAgY29udGludWUKICAgICAgICAgICAgICAgICAgdiA9IGpzb24ubG9hZHMobGluZSkKICAgICAgICAgICAgICAgICAgdmFscy5hcHBlbmQoanNvbi5sb2Fkcyh2KSBpZiBpc2luc3RhbmNlKHYsIHN0cikgZWxzZSB2KQogICAgICAgICAgICAgIHJldHVybiB2YWxzCgogICAgICAgICAgIyBBbGwgb3BlbiBQUnMsIGZpbHRlcmVkIHRvIHRoZSBsYW5kaW5nIGxhbmUuCiAgICAgICAgICBfLCBvdXQsIF8gPSBnaCgiYXBpIiwgZiJyZXBvcy97cmVwb30vcHVsbHM/c3RhdGU9b3BlbiZwZXJfcGFnZT0xMDAiLAogICAgICAgICAgICAgICAgICAgICAgICItLXBhZ2luYXRlIiwgIi0tanEiLCAiLltdIHwgQGpzb24iKQogICAgICAgICAgcHJzID0gcGFyc2VfbGluZXMob3V0KQoKICAgICAgICAgIG1lcmdlZCwgc2tpcHBlZCA9IFtdLCBbXQogICAgICAgICAgZm9yIHByIGluIHByczoKICAgICAgICAgICAgICBuID0gcHJbIm51bWJlciJdCiAgICAgICAgICAgICAgaGVhZF9yZWYgPSBwclsiaGVhZCJdWyJyZWYiXQogICAgICAgICAgICAgIGhlYWRfc2hhID0gcHJbImhlYWQiXVsic2hhIl0KICAgICAgICAgICAgICBpZiBwci5nZXQoImRyYWZ0Iik6CiAgICAgICAgICAgICAgICAgIHNraXBwZWQuYXBwZW5kKChuLCAiZHJhZnQiKSk7IGNvbnRpbnVlCiAgICAgICAgICAgICAgaWYgcHJbImJhc2UiXVsicmVmIl0gIT0gIm1haW4iOgogICAgICAgICAgICAgICAgICBza2lwcGVkLmFwcGVuZCgobiwgImJhc2UgIT0gbWFpbiIpKTsgY29udGludWUKICAgICAgICAgICAgICBpZiAocHJbImhlYWQiXVsicmVwbyJdIG9yIHt9KS5nZXQoImZ1bGxfbmFtZSIpICE9IHJlcG86CiAgICAgICAgICAgICAgICAgIHNraXBwZWQuYXBwZW5kKChuLCAiZm9yayBoZWFkIikpOyBjb250aW51ZQogICAgICAgICAgICAgIGlmIG5vdCBoZWFkX3JlZi5zdGFydHN3aXRoKCJjbGF1ZGUvIik6CiAgICAgICAgICAgICAgICAgIHNraXBwZWQuYXBwZW5kKChuLCBmImhlYWQge2hlYWRfcmVmIXJ9IG5vdCBjbGF1ZGUvKiIpKTsgY29udGludWUKCiAgICAgICAgICAgICAgIyBSYXRpZmljYXRpb24gcGFyayDigJQgbGFiZWxzIHJlLXJlYWQgRlJFU0ggKG5ldmVyIHRydXN0IHRoZQogICAgICAgICAgICAgICMgZXZlbnQgcGF5bG9hZCkuCiAgICAgICAgICAgICAgXywgb3V0LCBfID0gZ2goImFwaSIsIGYicmVwb3Mve3JlcG99L2lzc3Vlcy97bn0vbGFiZWxzIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIi0tanEiLCAiWy5bXS5uYW1lXSIpCiAgICAgICAgICAgICAgcGFyayA9IHNldChqc29uLmxvYWRzKG91dCBvciAiW10iKSkgJiBQQVJLX0xBQkVMUwogICAgICAgICAgICAgIGlmIHBhcms6CiAgICAgICAgICAgICAgICAgIHNraXBwZWQuYXBwZW5kKChuLCBmInJhdGlmaWNhdGlvbiBwYXJrOiB7c29ydGVkKHBhcmspfSIpKTsgY29udGludWUKCiAgICAgICAgICAgICAgIyBQUiBmaWxlIGxpc3Rpbmcg4oCUIGZlZWRzIHRoZSB3b3JrZmxvdy10b3VjaGluZy1QUiByYWlsLgogICAgICAgICAgICAgIF8sIG91dCwgXyA9IGdoKCJhcGkiLCBmInJlcG9zL3tyZXBvfS9wdWxscy97bn0vZmlsZXM/cGVyX3BhZ2U9MTAwIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIi0tcGFnaW5hdGUiLCAiLS1qcSIsICIuW10gfCBAanNvbiIpCiAgICAgICAgICAgICAgZW50cmllcyA9IHBhcnNlX2xpbmVzKG91dCkKICAgICAgICAgICAgICBmaWxlcyA9IFtlWyJmaWxlbmFtZSJdIGZvciBlIGluIGVudHJpZXNdCgogICAgICAgICAgICAgICMgT3duZXItbWVyZ2Utb25seSByYWlsOiB3b3JrZmxvdy10b3VjaGluZyBQUnMgYXJlIG5ldmVyCiAgICAgICAgICAgICAgIyBtZXJnZWQgYnkgYSB3b3JrZmxvdy4KICAgICAgICAgICAgICBpZiBhbnkoZi5zdGFydHN3aXRoKCIuZ2l0aHViL3dvcmtmbG93cy8iKSBmb3IgZiBpbiBmaWxlcyk6CiAgICAgICAgICAgICAgICAgIHNraXBwZWQuYXBwZW5kKChuLCAiLmdpdGh1Yi93b3JrZmxvd3MvKiogaW4gZGlmZiDigJQgIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAib3duZXItbWVyZ2Utb25seSIpKTsgY29udGludWUKCiAgICAgICAgICAgICAgIyBHRU5FUklDIGNoZWNrIHZlcmlmaWNhdGlvbjogRVZFUlkgY2hlY2sgcnVuIG9uIHRoZSBoZWFkCiAgICAgICAgICAgICAgIyBTSEEgKGxhdGVzdCBhdHRlbXB0IHBlciBuYW1lLCBtaW51cyB0aGUgc2VsZi1leGVtcHRpb24pCiAgICAgICAgICAgICAgIyBtdXN0IGJlIGNvbXBsZXRlZCtzdWNjZXNzLiBaZXJvIGNoZWNrIHJ1bnMgPSBub3RoaW5nCiAgICAgICAgICAgICAgIyB2ZXJpZmllZCA9IE5PVCByZWFkeSAoc2VlIEtOT1dOIExJTUlUQVRJT04gaW4gdGhlIGhlYWRlcgogICAgICAgICAgICAgICMg4oCUIHRoaXMgcmVwbyBoYXMgbm8gQ0kgeWV0LCBzbyB0aGlzIGN1cnJlbnRseSBtZWFucyBldmVyeQogICAgICAgICAgICAgICMgUFIgaXMgc2tpcHBlZCB1bnRpbCBzb21lIGNoZWNrIGV4aXN0cykuCiAgICAgICAgICAgICAgXywgb3V0LCBfID0gZ2goImFwaSIsCiAgICAgICAgICAgICAgICAgICAgICAgICBmInJlcG9zL3tyZXBvfS9jb21taXRzL3toZWFkX3NoYX0vY2hlY2stcnVucyIKICAgICAgICAgICAgICAgICAgICAgICAgICI/ZmlsdGVyPWxhdGVzdCZwZXJfcGFnZT0xMDAiLCAiLS1wYWdpbmF0ZSIsCiAgICAgICAgICAgICAgICAgICAgICAgICAiLS1qcSIsICcuY2hlY2tfcnVuc1tdIHtuYW1lLCBzdGF0dXMsIGNvbmNsdXNpb259IHwgQGpzb24nKQogICAgICAgICAgICAgIHJ1bnMgPSB7Y3JbIm5hbWUiXTogY3IgZm9yIGNyIGluIHBhcnNlX2xpbmVzKG91dCkKICAgICAgICAgICAgICAgICAgICAgIGlmIGNyWyJuYW1lIl0gbm90IGluIFNFTEZfQ0hFQ0tfTkFNRVN9CiAgICAgICAgICAgICAgaWYgbm90IHJ1bnM6CiAgICAgICAgICAgICAgICAgIHNraXBwZWQuYXBwZW5kKChuLCAibm8gY2hlY2sgcnVucyBvbiBoZWFkIFNIQSDigJQgIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAibm90aGluZyB2ZXJpZmllZCIpKTsgY29udGludWUKICAgICAgICAgICAgICBub3RfcmVhZHkgPSBbZiJ7bmFtZX06IHtjclsnc3RhdHVzJ119L3tjclsnY29uY2x1c2lvbiddfSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgZm9yIG5hbWUsIGNyIGluIHNvcnRlZChydW5zLml0ZW1zKCkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIGNyWyJzdGF0dXMiXSAhPSAiY29tcGxldGVkIgogICAgICAgICAgICAgICAgICAgICAgICAgICBvciBjclsiY29uY2x1c2lvbiJdICE9ICJzdWNjZXNzIl0KICAgICAgICAgICAgICBpZiBub3RfcmVhZHk6CiAgICAgICAgICAgICAgICAgIHNraXBwZWQuYXBwZW5kKChuLCAiOyAiLmpvaW4obm90X3JlYWR5KSkpOyBjb250aW51ZQoKICAgICAgICAgICAgICAjIFNxdWFzaC1tZXJnZSwgcGlubmVkIHRvIHRoZSBTSEEganVzdCB2ZXJpZmllZCBzbyBhIHJhY2UKICAgICAgICAgICAgICAjIHB1c2ggY2FuIG5ldmVyIGxhbmQgdW52ZXJpZmllZC4gQSBmYWlsZWQgbWVyZ2UgKGNvbmZsaWN0LAogICAgICAgICAgICAgICMgYmFzZSBtb3ZlZCkgaXMgYSB3YXJuaW5nLCBub3QgYSBjcmFzaCDigJQgdGhlIG5leHQgZXZlbnQgb3IKICAgICAgICAgICAgICAjIGNyb24gcmUtc3dlZXBzLgogICAgICAgICAgICAgIHJjLCBtb3V0LCBtZXJyID0gZ2goInByIiwgIm1lcmdlIiwgc3RyKG4pLCAiLS1yZXBvIiwgcmVwbywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiLS1zcXVhc2giLCAiLS1tYXRjaC1oZWFkLWNvbW1pdCIsIGhlYWRfc2hhLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICItLWJvZHkiLCBmIkhlYWQtcmVmOiB7aGVhZF9yZWZ9IiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBva19mYWlsPVRydWUpCiAgICAgICAgICAgICAgaWYgcmMgPT0gMDoKICAgICAgICAgICAgICAgICAgcHJpbnQoZiJNRVJHRUQgUFIgI3tufSAoe2hlYWRfcmVmfSBAIHtoZWFkX3NoYVs6MTJdfSkiKQogICAgICAgICAgICAgICAgICBtZXJnZWQuYXBwZW5kKG4pCiAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgcHJpbnQoZiI6Ondhcm5pbmc6Om1lcmdlIGZhaWxlZCBmb3IgUFIgI3tufToge21lcnIuc3RyaXAoKX0iKQogICAgICAgICAgICAgICAgICBza2lwcGVkLmFwcGVuZCgobiwgIm1lcmdlIGNhbGwgZmFpbGVkIChzZWUgd2FybmluZykiKSkKCiAgICAgICAgICBmb3Igbiwgd2h5IGluIHNraXBwZWQ6CiAgICAgICAgICAgICAgcHJpbnQoZiJza2lwcGVkIFBSICN7bn06IHt3aHl9IikKICAgICAgICAgIHByaW50KGYic3dlZXAgZG9uZSDigJQgbWVyZ2VkOiB7bWVyZ2VkIG9yICdub25lJ30iKQogICAgICAgICAgUFkK
+# merge-on-green — this repo's landing path for agent PRs.
+#
+# ============================== PROVENANCE ==============================
+# Why added : Fleet-wide merge-on-green audit (2026-07-15) found this repo
+#             had NO merge mechanism at all — no .github/workflows
+#             directory, no native-arm workflow, no REST sweep. The two
+#             PRs merged here to date (#1, #2) were both merged by hand
+#             by the human owner (confirmed via pull_request_read: no
+#             check runs existed on either head SHA). This installs real
+#             automation so future PRs land without a manual click.
+# Modeled on: menno420/fleet-manager .github/workflows/merge-on-green.yml
+#             @ eb7fec06c88366ca0984181184f34f390baa4562 — the REST
+#             verify-then-squash-merge sweep shape, chosen over the
+#             simpler native-arm enabler because there is no tool
+#             available in this task to confirm or toggle this repo's
+#             Settings > "Allow auto-merge" switch, so the REST path is
+#             the one guaranteed to work regardless of that setting.
+# Adapted for this repo:
+#   - repository guard -> menno420/superbot-plugin-hello
+#   - head-ref prefix  -> claude/* (this repo's only two PRs to date both
+#     used claude/* head refs: claude/order-020-kit-pin,
+#     claude/fleet-audit-2026-07-13 — same convention as the rest of the
+#     fleet)
+#   - base branch      -> main (this repo's default branch)
+#   - DROPPED the in-progress session-card skip block entirely: this
+#     repo has no .sessions/*.md born-red-card convention (no
+#     .sessions/ directory exists here at all), so that block does not
+#     apply and was removed rather than left in as dead/misleading code.
+#   - DROPPED the workflow_run trigger on named CI workflows: this repo
+#     currently has NO CI workflows of any kind (confirmed: no
+#     .github/workflows directory existed before this PR), so there is
+#     no known workflow name to react to yet. check_suite/completed plus
+#     the cron backstop still cover the sweep generically; add a
+#     workflow_run trigger back once real CI workflow names exist here.
+#
+# KNOWN LIMITATION (flagged plainly, not silently shipped): this repo has
+# no CI configured yet (prior self-audit, PR #1 body: "tests need the
+# host `sb` package to import, so nothing here can gate standalone").
+# The check-verification step below is copied faithfully from
+# fleet-manager: zero check runs on a PR's head SHA counts as "nothing
+# verified yet" (NOT ready to merge), not as "nothing to block on, ship
+# it." That means, as shipped, this workflow will skip every PR and
+# merge nothing until some CI workflow exists here that produces at
+# least one check run on PR heads. This is a deliberate, conservative
+# choice (a green signal must be an actually-verified signal, never
+# assumed) — see this PR's description for the honest trade-off and how
+# to flip it if "merge unconditionally, there's nothing to gate on yet"
+# is what's actually wanted for a template repo with no tests wired.
+#
+# Reliability: unverified — confirm its merges against ground truth a
+# few times across sessions before trusting it.
+# Kill-switch: delete this if it proves unreliable over multiple
+# sessions.
+# ========================================================================
+#
+# WHAT IT DOES: on check-suite completion / PR readiness or label
+# changes / the half-hourly cron / manual dispatch, sweep ALL open,
+# READY (non-draft), same-repo PRs with head `claude/*` and base `main`;
+# for each, verify EVERY check run on the head SHA is completed+success
+# (pending or missing = NOT ready — skip this round, a later event or
+# the next cron re-sweeps); then squash-merge directly with
+# GITHUB_TOKEN.
+#
+# CARVE-OUTS (skipped, never merged/closed/rebased):
+#   * labels `do-not-automerge` / `owner-held` (= ratification park),
+#     re-read FRESH from the API per PR — event payloads can snapshot
+#     labels as of PR open time;
+#   * any PR whose diff touches .github/workflows/** — workflow PRs stay
+#     OWNER-MERGE-ONLY. This very PR parks itself under its own rail, by
+#     design.
+#
+# RACE GUARD: the merge call pins `--match-head-commit <verified SHA>`,
+# so a push racing the sweep can never land an unverified head.
+#
+# SELF-EXEMPTION (documented, narrow): on pull_request triggers this
+# workflow's own job is itself a check run on the head SHA and is
+# `in_progress` while it evaluates — requiring it to be completed would
+# deadlock every event-triggered sweep. Check runs named exactly
+# `merge-on-green` are therefore exempt from the all-green requirement
+# (and only those; nothing else is ever exempt).
+#
+# KNOWN LIMIT (accepted): merges performed with GITHUB_TOKEN do not
+# trigger other `push`-event workflows on main (GitHub's recursion
+# guard).
+name: merge-on-green
+on:
+  check_suite:
+    types: [completed]
+  pull_request:
+    types: [ready_for_review, synchronize, labeled, unlabeled]
+  schedule:
+    # Reliable backstop lane: check_suite only fires from this file's
+    # copy on main, and GITHUB_TOKEN-created events don't retrigger
+    # workflows — the cron catches anything the event lanes miss.
+    - cron: "7,37 * * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+  pull-requests: write
+  checks: read
+concurrency:
+  # One sweep at a time, repo-wide; queued (never cancelled) so a merge
+  # in flight is never killed halfway and a completion event arriving
+  # mid-sweep still gets its own follow-up pass.
+  group: merge-on-green
+  cancel-in-progress: false
+jobs:
+  merge-on-green:
+    if: github.repository == 'menno420/superbot-plugin-hello'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Sweep open claude/* PRs and squash-merge the fully-green ones
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python3 - <<'PY'
+          import json, os, subprocess, sys
+
+          repo = os.environ["GITHUB_REPOSITORY"]
+          PARK_LABELS = {"do-not-automerge", "owner-held"}
+          SELF_CHECK_NAMES = {"merge-on-green"}  # see SELF-EXEMPTION header note
+
+          def gh(*args, ok_fail=False):
+              # argv-only (never a shell string): PR-controlled values
+              # (branch names, titles) ride as arguments but can never
+              # splice into a command.
+              r = subprocess.run(["gh", *args], capture_output=True, text=True)
+              if r.returncode != 0 and not ok_fail:
+                  print(r.stderr, file=sys.stderr)
+                  sys.exit(1)  # fail LOUD: an unreadable API must not merge
+              return r.returncode, r.stdout, r.stderr
+
+          def parse_lines(out):
+              vals = []
+              for line in out.splitlines():
+                  if not line:
+                      continue
+                  v = json.loads(line)
+                  vals.append(json.loads(v) if isinstance(v, str) else v)
+              return vals
+
+          # All open PRs, filtered to the landing lane.
+          _, out, _ = gh("api", f"repos/{repo}/pulls?state=open&per_page=100",
+                         "--paginate", "--jq", ".[] | @json")
+          prs = parse_lines(out)
+
+          merged, skipped = [], []
+          for pr in prs:
+              n = pr["number"]
+              head_ref = pr["head"]["ref"]
+              head_sha = pr["head"]["sha"]
+              if pr.get("draft"):
+                  skipped.append((n, "draft")); continue
+              if pr["base"]["ref"] != "main":
+                  skipped.append((n, "base != main")); continue
+              if (pr["head"]["repo"] or {}).get("full_name") != repo:
+                  skipped.append((n, "fork head")); continue
+              if not head_ref.startswith("claude/"):
+                  skipped.append((n, f"head {head_ref!r} not claude/*")); continue
+
+              # Ratification park — labels re-read FRESH (never trust the
+              # event payload).
+              _, out, _ = gh("api", f"repos/{repo}/issues/{n}/labels",
+                             "--jq", "[.[].name]")
+              park = set(json.loads(out or "[]")) & PARK_LABELS
+              if park:
+                  skipped.append((n, f"ratification park: {sorted(park)}")); continue
+
+              # PR file listing — feeds the workflow-touching-PR rail.
+              _, out, _ = gh("api", f"repos/{repo}/pulls/{n}/files?per_page=100",
+                             "--paginate", "--jq", ".[] | @json")
+              entries = parse_lines(out)
+              files = [e["filename"] for e in entries]
+
+              # Owner-merge-only rail: workflow-touching PRs are never
+              # merged by a workflow.
+              if any(f.startswith(".github/workflows/") for f in files):
+                  skipped.append((n, ".github/workflows/** in diff — "
+                                     "owner-merge-only")); continue
+
+              # GENERIC check verification: EVERY check run on the head
+              # SHA (latest attempt per name, minus the self-exemption)
+              # must be completed+success. Zero check runs = nothing
+              # verified = NOT ready (see KNOWN LIMITATION in the header
+              # — this repo has no CI yet, so this currently means every
+              # PR is skipped until some check exists).
+              _, out, _ = gh("api",
+                             f"repos/{repo}/commits/{head_sha}/check-runs"
+                             "?filter=latest&per_page=100", "--paginate",
+                             "--jq", '.check_runs[] | {name, status, conclusion} | @json')
+              runs = {cr["name"]: cr for cr in parse_lines(out)
+                      if cr["name"] not in SELF_CHECK_NAMES}
+              if not runs:
+                  skipped.append((n, "no check runs on head SHA — "
+                                     "nothing verified")); continue
+              not_ready = [f"{name}: {cr['status']}/{cr['conclusion']}"
+                           for name, cr in sorted(runs.items())
+                           if cr["status"] != "completed"
+                           or cr["conclusion"] != "success"]
+              if not_ready:
+                  skipped.append((n, "; ".join(not_ready))); continue
+
+              # Squash-merge, pinned to the SHA just verified so a race
+              # push can never land unverified. A failed merge (conflict,
+              # base moved) is a warning, not a crash — the next event or
+              # cron re-sweeps.
+              rc, mout, merr = gh("pr", "merge", str(n), "--repo", repo,
+                                  "--squash", "--match-head-commit", head_sha,
+                                  "--body", f"Head-ref: {head_ref}",
+                                  ok_fail=True)
+              if rc == 0:
+                  print(f"MERGED PR #{n} ({head_ref} @ {head_sha[:12]})")
+                  merged.append(n)
+              else:
+                  print(f"::warning::merge failed for PR #{n}: {merr.strip()}")
+                  skipped.append((n, "merge call failed (see warning)"))
+
+          for n, why in skipped:
+              print(f"skipped PR #{n}: {why}")
+          print(f"sweep done — merged: {merged or 'none'}")
+          PY
